@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27be094db04936d4f889f9178c9e921f, type: 3}
+  m_Name: Porsche
+  m_EditorClassIdentifier: 
+  vehicleName: Porsche 911 1966
+  vehicleImage: {fileID: 21300000, guid: 4e9711bc1cb1a284fad55eda49da6942, type: 3}
+  brandImage: {fileID: 21300000, guid: 846cdfb221660494e9cdc305ad414eff, type: 3}
+  isElectric: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27be094db04936d4f889f9178c9e921f, type: 3}
+  m_Name: Tesla
+  m_EditorClassIdentifier: 
+  vehicleName: Tesla Model 3
+  vehicleImage: {fileID: 21300000, guid: 6ad145a7481ad6046a87260ac63214b8, type: 3}
+  brandImage: {fileID: 21300000, guid: 5b9ec3b51f151d34192177138d5fe746, type: 3}
+  isElectric: 1
